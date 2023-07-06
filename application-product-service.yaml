@@ -11,7 +11,7 @@ eureka:
         
 app:
   product:
-    discount: 20
+    discount: 50
 
 spring:
   datasource:
